@@ -3,8 +3,8 @@
 # https://www.tandfonline.com/doi/abs/10.1080/10618600.2020.1807996
 # Author of corresponding MATLAB code: Nadja Klein
 
-def genbeta(): raise NotImplementedError("License not aquired.")
-def genbeta2(): raise NotImplementedError("License not aquired.")
-def gentau(): raise NotImplementedError("License not aquired.")
-def gentau2(): raise NotImplementedError("License not aquired.")
-def genlambda(): raise NotImplementedError("License not aquired.")
+def genbeta(*args, **kw): raise NotImplementedError("License not aquired.")
+def genbeta2(*args, **kw): raise NotImplementedError("License not aquired.")
+def gentau(*args, **kw): raise NotImplementedError("License not aquired.")
+def gentau2(*args, **kw): raise NotImplementedError("License not aquired.")
+def genlambda(*args, **kw): raise NotImplementedError("License not aquired.")
