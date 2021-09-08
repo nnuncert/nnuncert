@@ -1,0 +1,14 @@
+{
+  "model": "NLM-E",
+  "dataset": "powerplant",
+  "rmse_train": 4.101628133949564,
+  "rmse_test": 4.026493575523596,
+  "log_score_train": -2.7969756521848628,
+  "log_score_test": -2.833899235561587,
+  "crps_train": 2.207950779857755,
+  "crps_test": 2.2485461387118497,
+  "picp_train": 0.9623765480482834,
+  "picp_test": 0.9341486359360301,
+  "mpiw_train": 15.79514272283133,
+  "mpiw_test": 14.776903697685261
+}

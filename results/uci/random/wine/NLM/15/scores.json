@@ -1,0 +1,14 @@
+{
+  "model": "NLM",
+  "dataset": "wine",
+  "rmse_train": 0.5742450668795657,
+  "rmse_test": 0.6033388322919199,
+  "log_score_train": -0.7043373875322094,
+  "log_score_test": -0.9656021191209766,
+  "crps_train": 0.30413490245140906,
+  "crps_test": 0.33225551777843254,
+  "picp_train": 0.95,
+  "picp_test": 0.9245283018867925,
+  "mpiw_train": 2.150905838102005,
+  "mpiw_test": 2.354393761576092
+}

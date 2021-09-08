@@ -1,0 +1,14 @@
+{
+  "model": "MC dropout",
+  "dataset": "boston",
+  "rmse_train": 2.5687332544127273,
+  "rmse_test": 5.626530162426909,
+  "log_score_train": -2.148605574672237,
+  "log_score_test": -2.9702050015069084,
+  "crps_train": 1.2672841886950945,
+  "crps_test": 2.6942903766165474,
+  "picp_train": 0.9940476190476191,
+  "picp_test": 0.9294117647058824,
+  "mpiw_train": 11.155469368684034,
+  "mpiw_test": 14.72365554726529
+}

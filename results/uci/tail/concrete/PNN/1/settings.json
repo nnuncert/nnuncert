@@ -1,0 +1,12 @@
+{
+  "arch": [
+    [
+      50,
+      "relu",
+      0
+    ]
+  ],
+  "epochs": 40,
+  "learning_rate": 0.01,
+  "test_hash": "bd3b21d692"
+}

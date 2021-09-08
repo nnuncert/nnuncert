@@ -1,0 +1,14 @@
+{
+  "model": "NLM",
+  "dataset": "energy",
+  "rmse_train": 3.0268651693441573,
+  "rmse_test": 2.9889062771281556,
+  "log_score_train": -1.1601770820750406,
+  "log_score_test": -2.651186538998129,
+  "crps_train": 0.8099189045570179,
+  "crps_test": 1.547144521638494,
+  "picp_train": 0.9921875,
+  "picp_test": 0.84375,
+  "mpiw_train": 5.732194491652125,
+  "mpiw_test": 7.222307759162706
+}

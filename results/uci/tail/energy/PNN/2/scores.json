@@ -1,0 +1,14 @@
+{
+  "model": "PNN",
+  "dataset": "energy",
+  "rmse_train": 3.2876198175477556,
+  "rmse_test": 26.091664232333496,
+  "log_score_train": -0.8456490926863148,
+  "log_score_test": -3617.9839028127476,
+  "crps_train": 0.5795983029301156,
+  "crps_test": 17.491754275134628,
+  "picp_train": 0.99609375,
+  "picp_test": 0.03125,
+  "mpiw_train": 4.431172754716972,
+  "mpiw_test": 4.398732349007526
+}

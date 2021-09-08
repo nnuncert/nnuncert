@@ -1,0 +1,14 @@
+{
+  "arch": [
+    [
+      50,
+      "relu",
+      0
+    ]
+  ],
+  "epochs": 40,
+  "learning_rate": 0.01,
+  "set_var_bounds": false,
+  "test_hash": "5868bc03f7",
+  "test_ratio": 0.1
+}

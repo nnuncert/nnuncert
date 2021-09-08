@@ -1,0 +1,14 @@
+{
+  "model": "PNN-E",
+  "dataset": "boston",
+  "rmse_train": 2.124337181404547,
+  "rmse_test": 5.647445932484085,
+  "log_score_train": -1.9255528945046383,
+  "log_score_test": -2.777144948974705,
+  "crps_train": 1.0046278319235387,
+  "crps_test": 2.283911095250235,
+  "picp_train": 0.9868421052631579,
+  "picp_test": 0.86,
+  "mpiw_train": 9.148966371682706,
+  "mpiw_test": 9.645255406591145
+}

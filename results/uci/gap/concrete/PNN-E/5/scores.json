@@ -1,0 +1,14 @@
+{
+  "model": "PNN-E",
+  "dataset": "concrete",
+  "rmse_train": 3.8848968819615703,
+  "rmse_test": 6.963750595705625,
+  "log_score_train": -2.7323450952218895,
+  "log_score_test": -3.369073814304863,
+  "crps_train": 2.1305075096910056,
+  "crps_test": 3.8631372761445864,
+  "picp_train": 0.992721979621543,
+  "picp_test": 0.8367346938775511,
+  "mpiw_train": 20.365744839188313,
+  "mpiw_test": 19.25880179051785
+}

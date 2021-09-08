@@ -1,0 +1,14 @@
+{
+  "model": "NLM",
+  "dataset": "concrete",
+  "rmse_train": 4.765353632751776,
+  "rmse_test": 6.528441006379832,
+  "log_score_train": -2.7794828181518585,
+  "log_score_test": -3.6445210269872184,
+  "crps_train": 2.407749099857854,
+  "crps_test": 3.707805440233869,
+  "picp_train": 0.9956331877729258,
+  "picp_test": 0.7959183673469388,
+  "mpiw_train": 21.79947267519243,
+  "mpiw_test": 18.860735088915526
+}

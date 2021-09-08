@@ -1,0 +1,14 @@
+{
+  "model": "PBP",
+  "dataset": "concrete",
+  "rmse_train": 4.809021988304667,
+  "rmse_test": 7.28676625756147,
+  "log_score_train": -2.995943866575614,
+  "log_score_test": -3.532676806667427,
+  "crps_train": 2.682543998248146,
+  "crps_test": 4.081112404090227,
+  "picp_train": 0.9650655021834061,
+  "picp_test": 0.8483965014577259,
+  "mpiw_train": 20.65403948729619,
+  "mpiw_test": 20.634302457102844
+}

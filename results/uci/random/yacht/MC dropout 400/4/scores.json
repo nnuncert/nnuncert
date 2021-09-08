@@ -1,0 +1,14 @@
+{
+  "model": "MC dropout",
+  "dataset": "yacht",
+  "rmse_train": 0.717194529410803,
+  "rmse_test": 1.1852674759939792,
+  "log_score_train": -1.4046018487261493,
+  "log_score_test": -1.093639621806623,
+  "crps_train": 0.5330243480650778,
+  "crps_test": 0.48713613417570917,
+  "picp_train": 1.0,
+  "picp_test": 1.0,
+  "mpiw_train": 7.625047856115992,
+  "mpiw_test": 5.97835031068687
+}

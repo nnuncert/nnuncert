@@ -1,0 +1,14 @@
+{
+  "model": "MC dropout",
+  "dataset": "energy",
+  "rmse_train": 3.354435816327187,
+  "rmse_test": 1.9123075286120879,
+  "log_score_train": -1.8774784952763726,
+  "log_score_test": -1.8228586604443189,
+  "crps_train": 1.1334913132483646,
+  "crps_test": 0.9466747314562673,
+  "picp_train": 0.990234375,
+  "picp_test": 1.0,
+  "mpiw_train": 11.231311061692661,
+  "mpiw_test": 9.496875043867322
+}

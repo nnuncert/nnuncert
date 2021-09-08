@@ -1,0 +1,14 @@
+{
+  "model": "DNNC-R",
+  "dataset": "boston",
+  "rmse_train": 2.498829250945508,
+  "rmse_test": 3.220596883620342,
+  "log_score_train": -2.1673522024893965,
+  "log_score_test": -2.6802884270761713,
+  "crps_train": 1.2658975804887824,
+  "crps_test": 1.7717384276780062,
+  "picp_train": 0.9583333333333334,
+  "picp_test": 0.84,
+  "mpiw_train": 11.569708282130136,
+  "mpiw_test": 11.99470585322386
+}

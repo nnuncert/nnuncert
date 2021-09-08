@@ -1,0 +1,23 @@
+{
+  "arch": [
+    [
+      50,
+      "relu",
+      0
+    ]
+  ],
+  "best_dropout": 0.01,
+  "conv_factor": 1,
+  "epochs": 40,
+  "grid_dropout": [
+    0.005,
+    0.01,
+    0.05,
+    0.1
+  ],
+  "learning_rate": 0.01,
+  "npreds": 1000,
+  "set_var_bounds": true,
+  "test_hash": "90f4599da7",
+  "val_ratio": 0.2
+}

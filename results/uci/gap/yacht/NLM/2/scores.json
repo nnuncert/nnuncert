@@ -1,0 +1,14 @@
+{
+  "model": "NLM",
+  "dataset": "yacht",
+  "rmse_train": 1.5677558013183848,
+  "rmse_test": 3.0551638822930345,
+  "log_score_train": -1.4462981816261766,
+  "log_score_test": -2.412273163512066,
+  "crps_train": 0.6731261845278296,
+  "crps_test": 1.6090045318779598,
+  "picp_train": 1.0,
+  "picp_test": 0.9902912621359223,
+  "mpiw_train": 8.11409650807968,
+  "mpiw_test": 14.389319923365235
+}

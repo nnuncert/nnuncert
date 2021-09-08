@@ -1,0 +1,14 @@
+{
+  "model": "PNN-E",
+  "dataset": "yacht",
+  "rmse_train": 0.8674265598687996,
+  "rmse_test": 1.7448482709304491,
+  "log_score_train": -1.286139782261532,
+  "log_score_test": -1.9037351817600077,
+  "crps_train": 0.4727732333318402,
+  "crps_test": 0.9157666742746631,
+  "picp_train": 1.0,
+  "picp_test": 0.9423076923076923,
+  "mpiw_train": 6.314079912310875,
+  "mpiw_test": 6.702191635741901
+}

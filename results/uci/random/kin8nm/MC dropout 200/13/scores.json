@@ -1,0 +1,14 @@
+{
+  "model": "MC dropout",
+  "dataset": "kin8nm",
+  "rmse_train": 0.0812820414166777,
+  "rmse_test": 0.08027885807561493,
+  "log_score_train": 1.164443827002428,
+  "log_score_test": 1.1629817506342384,
+  "crps_train": 0.04376343876309602,
+  "crps_test": 0.04419228370311649,
+  "picp_train": 0.9745015597450156,
+  "picp_test": 0.9755799755799756,
+  "mpiw_train": 0.3451438958351386,
+  "mpiw_test": 0.3360160439608576
+}

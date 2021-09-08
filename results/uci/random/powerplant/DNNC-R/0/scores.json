@@ -1,0 +1,14 @@
+{
+  "model": "DNNC-R",
+  "dataset": "powerplant",
+  "rmse_train": 4.608220082298088,
+  "rmse_test": 4.580401842002765,
+  "log_score_train": -3.3743999120560493,
+  "log_score_test": -3.3489606489612656,
+  "crps_train": 3.2778787391619066,
+  "crps_test": 3.270578857553077,
+  "picp_train": 0.965164886205295,
+  "picp_test": 0.9654811715481172,
+  "mpiw_train": 32.88438667768148,
+  "mpiw_test": 32.58227912560053
+}

@@ -1,0 +1,14 @@
+{
+  "model": "DNNC-R",
+  "dataset": "yacht",
+  "rmse_train": 4.147269143641676,
+  "rmse_test": 7.906772903208516,
+  "log_score_train": -1.4611202780043726,
+  "log_score_test": -7.162981622971125,
+  "crps_train": 4.4400635664524,
+  "crps_test": 5.154927627794423,
+  "picp_train": 0.9215686274509803,
+  "picp_test": 0.6538461538461539,
+  "mpiw_train": 28.19606959582577,
+  "mpiw_test": 18.37828266378763
+}

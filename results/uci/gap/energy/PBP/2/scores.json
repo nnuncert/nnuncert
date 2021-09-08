@@ -1,0 +1,14 @@
+{
+  "model": "PBP",
+  "dataset": "energy",
+  "rmse_train": 2.6928677808142325,
+  "rmse_test": 4.736018218020165,
+  "log_score_train": -1.8874316035672019,
+  "log_score_test": -4.709762148541738,
+  "crps_train": 0.8668767070447035,
+  "crps_test": 2.8506691198787335,
+  "picp_train": 0.990234375,
+  "picp_test": 0.71484375,
+  "mpiw_train": 7.592605563126077,
+  "mpiw_test": 7.857977108421834
+}

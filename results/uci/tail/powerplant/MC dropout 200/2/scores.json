@@ -1,0 +1,14 @@
+{
+  "model": "MC dropout",
+  "dataset": "powerplant",
+  "rmse_train": 4.615171640641432,
+  "rmse_test": 5.55715615330345,
+  "log_score_train": -2.9771782230449335,
+  "log_score_test": -3.174574560154202,
+  "crps_train": 2.592417043776544,
+  "crps_test": 3.1834660935455177,
+  "picp_train": 0.989181561618062,
+  "picp_test": 0.9912225705329154,
+  "mpiw_train": 23.245666482960008,
+  "mpiw_test": 29.398146379816886
+}

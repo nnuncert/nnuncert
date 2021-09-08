@@ -1,0 +1,14 @@
+{
+  "model": "PBP",
+  "dataset": "powerplant",
+  "rmse_train": 4.178350152871124,
+  "rmse_test": 4.108362587623393,
+  "log_score_train": -2.8489373642808005,
+  "log_score_test": -2.832748840392628,
+  "crps_train": 2.2764421847540257,
+  "crps_test": 2.2685211262207465,
+  "picp_train": 0.9620630192820191,
+  "picp_test": 0.962684227030417,
+  "mpiw_train": 16.580414001446773,
+  "mpiw_test": 16.573248001219785
+}

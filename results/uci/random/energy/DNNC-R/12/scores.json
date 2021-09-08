@@ -1,0 +1,14 @@
+{
+  "model": "DNNC-R",
+  "dataset": "energy",
+  "rmse_train": 2.37502043494509,
+  "rmse_test": 4.0012863058453805,
+  "log_score_train": -1.7964985089395864,
+  "log_score_test": -2.564007769829358,
+  "crps_train": 0.9780850707365718,
+  "crps_test": 1.3711880884458594,
+  "picp_train": 0.9884393063583815,
+  "picp_test": 0.9605263157894737,
+  "mpiw_train": 9.129583204453466,
+  "mpiw_test": 9.0878604588361
+}

@@ -1,0 +1,21 @@
+{
+  "J": [
+    1000,
+    3000
+  ],
+  "arch": [
+    [
+      50,
+      "relu",
+      0
+    ]
+  ],
+  "dnnc_type": "ridge",
+  "epochs": 40,
+  "fit_z_train": true,
+  "learning_rate": 0.01,
+  "set_var_bounds": true,
+  "tau2start": 10,
+  "test_hash": "1ff5afc3f7",
+  "theta": 2.5
+}

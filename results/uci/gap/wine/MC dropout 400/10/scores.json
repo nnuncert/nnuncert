@@ -1,0 +1,14 @@
+{
+  "model": "MC dropout",
+  "dataset": "wine",
+  "rmse_train": 0.5641180889571978,
+  "rmse_test": 0.6955891849940484,
+  "log_score_train": -0.7667929642586347,
+  "log_score_test": -1.0480170004628433,
+  "crps_train": 0.3050757095526618,
+  "crps_test": 0.3860235676420641,
+  "picp_train": 0.9737335834896811,
+  "picp_test": 0.926829268292683,
+  "mpiw_train": 2.527396677545469,
+  "mpiw_test": 2.4098938050011807
+}

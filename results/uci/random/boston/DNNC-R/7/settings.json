@@ -1,0 +1,23 @@
+{
+  "J": [
+    1000,
+    3000
+  ],
+  "arch": [
+    [
+      50,
+      "relu",
+      0
+    ]
+  ],
+  "dnnc_type": "ridge",
+  "drop_first": true,
+  "epochs": 40,
+  "fit_z_train": true,
+  "learning_rate": 0.01,
+  "set_var_bounds": false,
+  "tau2start": 10,
+  "test_hash": "e6c9b1b179",
+  "test_ratio": 0.1,
+  "theta": 2.5
+}

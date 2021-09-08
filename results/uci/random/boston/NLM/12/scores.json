@@ -1,0 +1,14 @@
+{
+  "model": "NLM",
+  "dataset": "boston",
+  "rmse_train": 2.5615194076843117,
+  "rmse_test": 4.270125089211101,
+  "log_score_train": -1.9864240883020126,
+  "log_score_test": -2.756233865714332,
+  "crps_train": 1.0865700018685795,
+  "crps_test": 1.6382608012010882,
+  "picp_train": 0.9890350877192983,
+  "picp_test": 0.92,
+  "mpiw_train": 10.09906221387061,
+  "mpiw_test": 10.038871089022939
+}

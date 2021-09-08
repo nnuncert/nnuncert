@@ -1,0 +1,14 @@
+{
+  "model": "PBP",
+  "dataset": "yacht",
+  "rmse_train": 0.849331671254458,
+  "rmse_test": 1.0576311944873107,
+  "log_score_train": -1.54511491425315,
+  "log_score_test": -1.615572527427323,
+  "crps_train": 0.5321077860773303,
+  "crps_test": 0.6254782579190367,
+  "picp_train": 0.9892086330935251,
+  "picp_test": 1.0,
+  "mpiw_train": 6.502512210432819,
+  "mpiw_test": 6.543097790939783
+}

@@ -1,0 +1,14 @@
+{
+  "model": "PNN-E",
+  "dataset": "wine",
+  "rmse_train": 0.5535491765560595,
+  "rmse_test": 0.664809466453588,
+  "log_score_train": -0.7408299681551713,
+  "log_score_test": -1.030854094542684,
+  "crps_train": 0.40181188641104587,
+  "crps_test": 0.3671273755909357,
+  "picp_train": 0.96875,
+  "picp_test": 0.9308176100628931,
+  "mpiw_train": 4.087648872917937,
+  "mpiw_test": 2.5680957700633416
+}

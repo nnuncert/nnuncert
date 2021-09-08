@@ -1,0 +1,14 @@
+{
+  "model": "DNNC-R",
+  "dataset": "concrete",
+  "rmse_train": 4.529520421240319,
+  "rmse_test": 8.761636809180024,
+  "log_score_train": -2.941672991295165,
+  "log_score_test": -4.070054337314929,
+  "crps_train": 2.5370287244846588,
+  "crps_test": 4.953607710266763,
+  "picp_train": 0.9592430858806404,
+  "picp_test": 0.8192419825072886,
+  "mpiw_train": 20.832389824200515,
+  "mpiw_test": 21.7912330079886
+}

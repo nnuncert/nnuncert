@@ -1,0 +1,14 @@
+{
+  "model": "MC dropout",
+  "dataset": "concrete",
+  "rmse_train": 3.671139685691368,
+  "rmse_test": 8.272701228361985,
+  "log_score_train": -2.5125845703326553,
+  "log_score_test": -4.135558553923724,
+  "crps_train": 1.8308632762537105,
+  "crps_test": 4.746342475159887,
+  "picp_train": 0.9868804664723032,
+  "picp_test": 0.6802325581395349,
+  "mpiw_train": 15.78577661204311,
+  "mpiw_test": 15.53494299603384
+}

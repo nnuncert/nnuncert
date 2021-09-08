@@ -1,0 +1,14 @@
+{
+  "model": "PNN-E",
+  "dataset": "powerplant",
+  "rmse_train": 4.0365880150574736,
+  "rmse_test": 4.132917974686679,
+  "log_score_train": -2.792816013340063,
+  "log_score_test": -2.8276287547356103,
+  "crps_train": 2.19476133710438,
+  "crps_test": 2.2230982408608484,
+  "picp_train": 0.9686483975847654,
+  "picp_test": 0.9592050209205021,
+  "mpiw_train": 16.57587841636941,
+  "mpiw_test": 16.556144677969563
+}
