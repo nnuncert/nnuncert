@@ -1,5 +1,18 @@
 # nnuncert: Uncertainty Quantification with BNNs
-Code adapted or copied from other authors is marked as such at the top of the corresponding .py file or function / class.
+Disclaimer: Code adapted or copied from other authors is marked as such at the top of the corresponding .py file or function / class.
+
+## Abstract
+<code>
+Neural networks (NNs) are used to a great extent in various fields and are becoming increasingly relevant to decisions in our everyday life.
+However, NNs are typically not aware of the uncertainty that accompanies their predictions, inhibiting their use in safety-critical applications.
+Bayesian NNs (BNNs) allow quantifying uncertainty by modeling weights as distributions over possible values.
+It is usually infeasible to compute BNNs analytically.
+Various adaptations that lower the computational cost of BNNs and non-Bayesian approaches have been proposed to model uncertainty in neural networks.
+As of now, there is no clear winner among those methods.
+In this thesis, we benchmark the popular models Monte Carlo dropout (MC dropout), deep ensemble (PNN-E), and probabilistic backpropagation (PBP) as well as the last-layer inference methods neural linear model (NLM) and marginally calibrated deep distributional regression (DNNC), an adaption to NLM that ensures marginal calibration.
+We assess their -- marginal and probabilistic -- calibration and obtain robust predictive performance results by evaluating the models' ability to predict uncertainty for in-between and out-of-range inputs.
+Further, we provide empirical evidence that DNNC may be used as a post-calibration method on a NN fit with standardized inputs and outputs. This enables a wider usability of the general approach.
+</code>
 
 ## Clone repo and install requirements
 You can clone the repo to your local or cloud machine inside the target folder using:
